@@ -1,0 +1,14 @@
+Controller -> point of contact
+Service -> business logic
+Repository -> talks to storage
+Models -> representing all models/entities
+
+
+Controller -> Service -> Repository
+
+// checking winner in O(1)
+// strategy Design Pattern ->  not needed for winner check as all the variations are needed
+Diagonal
+Row
+Column
+Corner
