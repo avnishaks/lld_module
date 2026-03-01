@@ -1,4 +1,4 @@
-package leetcode_pod_2026;
+package leetcode_pod_2026.march_2026;
 
 public class MaximumDeciBinaryNumber {
     public int minPartitions(String n) {
